@@ -1,0 +1,7 @@
+1. Decide where to order pizza from
+2. Decide what type of pizza to order
+3. Decide what size pizza to order.
+4. Have it delivered or picked up
+5. Wait for the pizza
+6. Tip the driver. 
+7. Time to eat!
