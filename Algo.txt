@@ -1,10 +1,13 @@
 1. Decide where to order pizza from
-    1a. Salvatores
+    1a. order from Dominos
+    1b. see if they have specials
 2. Decide what type of pizza to order
-    2a. how many pizzas to order    
-    2b. any sides
+    2a. any sides
 3. Decide what size pizza to order.
 4. Have it delivered or picked up
-5. Wait for the pizza
-6. Tip the driver. 
-7. Time to eat!
+    4a. curbside pickup
+5.Drive to the store
+    5a. wait for pizza
+6. Pay clerk
+7. Go home
+    7a. serve and enjoy
