@@ -1,5 +1,8 @@
 1. Decide where to order pizza from
+    1a. Salvatores
 2. Decide what type of pizza to order
+    2a. how many pizzas to order    
+    2b. any sides
 3. Decide what size pizza to order.
 4. Have it delivered or picked up
 5. Wait for the pizza
